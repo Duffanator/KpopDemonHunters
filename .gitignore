@@ -1,0 +1,36 @@
+# Python byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Generated Arcade Cabinet Build / Distribution Output
+# (Rebuilt anytime via `python build_arcade_package.py`)
+dist/
+build/
+*.egg-info/
+
+# Automated smoke-test preview screenshot
+assets/sprites/gameplay_preview.png
+
+# User-supplied commercial audio tracks (keep assets/music/README.md tracked)
+assets/music/*.mp3
+assets/music/*.ogg
+assets/music/*.wav
+assets/music/*.flac
+
+# OS & Editor temporary files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+*.bak
+*.swp
+*~

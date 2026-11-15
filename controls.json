@@ -1,0 +1,129 @@
+{
+  "_comment": "Arcade Joystick Button Mapping for K-Pop Demon Hunters. Press F2 on the Title Screen to map interactively, or edit button numbers below.",
+  "players": {
+    "player_1": {
+      "attack_buttons": [
+        0,
+        2
+      ],
+      "jump_buttons": [
+        1
+      ],
+      "special_buttons": [
+        2,
+        5
+      ],
+      "synergy_buttons": [
+        3,
+        4
+      ],
+      "coin_buttons": [
+        6,
+        8,
+        10
+      ],
+      "start_buttons": [
+        7,
+        9,
+        11
+      ],
+      "axis_x": 0,
+      "axis_y": 1,
+      "invert_x": false,
+      "invert_y": false
+    },
+    "player_2": {
+      "attack_buttons": [
+        0,
+        2
+      ],
+      "jump_buttons": [
+        1
+      ],
+      "special_buttons": [
+        2,
+        5
+      ],
+      "synergy_buttons": [
+        3,
+        4
+      ],
+      "coin_buttons": [
+        6,
+        8,
+        10
+      ],
+      "start_buttons": [
+        7,
+        9,
+        11
+      ],
+      "axis_x": 0,
+      "axis_y": 1,
+      "invert_x": false,
+      "invert_y": false
+    },
+    "player_3": {
+      "attack_buttons": [
+        0,
+        2
+      ],
+      "jump_buttons": [
+        1
+      ],
+      "special_buttons": [
+        2,
+        5
+      ],
+      "synergy_buttons": [
+        3,
+        4
+      ],
+      "coin_buttons": [
+        6,
+        8,
+        10
+      ],
+      "start_buttons": [
+        7,
+        9,
+        11
+      ],
+      "axis_x": 0,
+      "axis_y": 1,
+      "invert_x": false,
+      "invert_y": false
+    },
+    "player_4": {
+      "attack_buttons": [
+        0,
+        2
+      ],
+      "jump_buttons": [
+        1
+      ],
+      "special_buttons": [
+        2,
+        5
+      ],
+      "synergy_buttons": [
+        3,
+        4
+      ],
+      "coin_buttons": [
+        6,
+        8,
+        10
+      ],
+      "start_buttons": [
+        7,
+        9,
+        11
+      ],
+      "axis_x": 0,
+      "axis_y": 1,
+      "invert_x": false,
+      "invert_y": false
+    }
+  }
+}
